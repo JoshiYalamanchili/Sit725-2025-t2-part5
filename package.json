@@ -1,0 +1,23 @@
+{
+  "name": "sit725-2025-t2-part3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshiYalamanchili/Sit725-2025-t2-part3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoshiYalamanchili/Sit725-2025-t2-part3/issues"
+  },
+  "homepage": "https://github.com/JoshiYalamanchili/Sit725-2025-t2-part3#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}

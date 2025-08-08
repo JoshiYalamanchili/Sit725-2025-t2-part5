@@ -1,23 +1,29 @@
 {
-  "name": "sit725-2025-t2-part3",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "start": "node server.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/JoshiYalamanchili/Sit725-2025-t2-part3.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/JoshiYalamanchili/Sit725-2025-t2-part3/issues"
-  },
-  "homepage": "https://github.com/JoshiYalamanchili/Sit725-2025-t2-part3#readme",
-  "dependencies": {
-    "express": "^5.1.0"
-  }
+    "name": "sit725-2023-t2-p2",
+    "version": "1.0.0",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node startServerWithMongo.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/stephenliu8964/sit725-2023-t2-prac2.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/stephenliu8964/sit725-2023-t2-prac2/issues"
+    },
+    "homepage": "https://github.com/stephenliu8964/sit725-2023-t2-prac2#readme",
+    "dependencies": {
+        "body-parser": "^2.2.0",
+        "express": "^5.1.0",
+        "expresss": "^0.0.0",
+        "mongodb": "^4.4.1",
+        "mongoose": "^8.17.1",
+        "nodemon": "^3.0.1"
+    },
+    "keywords": [],
+    "description": ""
 }
